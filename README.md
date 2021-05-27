@@ -18,6 +18,7 @@ pip install -e .
 
 # Getting Started
 ```
+git clone https://github.com/Amanda-1997/Ball-Run.git
 cd Ball-Run
 python impulse_separated.py
 ```
